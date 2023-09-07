@@ -10,3 +10,8 @@ Example Output: <br />
 | -------:|-----:|:-------------------:| ----------------------:| ---------:|
 | -------:|-----:|:-------------------:| ----------------------:| ---------:|
 | -------:|-----:|:-------------------:| ----------------------:| ---------:|
+
+
+### Note
+The URL's I have chosen have a similar html structure .. so I was able to scrape 100 of websites! <br />
+You can modify the scirpt as per your need. 
