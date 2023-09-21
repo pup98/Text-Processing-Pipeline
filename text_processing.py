@@ -23,6 +23,7 @@ import openpyxl
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('vader_lexicon')
+nltk.download('wordnet')
 
 
 # Break whole text into sentences using spacy
